@@ -1,1 +1,1 @@
-# Boards for GlitchSTORM 3U EURORACK Version
+# Boards and Docs for GlitchSTORM 3U EURORACK Version
